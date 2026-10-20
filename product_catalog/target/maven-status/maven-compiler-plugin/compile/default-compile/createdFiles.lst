@@ -1,6 +1,0 @@
-com\budiluhur\product_catalog\exception\ProductNotFoundException.class
-com\budiluhur\product_catalog\service\DiscountService.class
-com\budiluhur\product_catalog\service\ProductService.class
-com\budiluhur\product_catalog\repository\ProductRepository.class
-com\budiluhur\product_catalog\model\product.class
-com\budiluhur\product_catalog\ProductCatalogApplication.class
